@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Assingment/static/css/main.acc79c7d.css",
+    "main.js": "/Assingment/static/js/main.c98b8625.js",
+    "static/js/787.edd59a96.chunk.js": "/Assingment/static/js/787.edd59a96.chunk.js",
+    "static/media/cont.png": "/Assingment/static/media/cont.efbb7b7e370fe59ebd47.png",
+    "static/media/math.png": "/Assingment/static/media/math.1d41d6a16da7ec362905.png",
+    "static/media/Rectangle 40.png": "/Assingment/static/media/Rectangle 40.8942961199a01c1178eb.png",
+    "static/media/Group 24.png": "/Assingment/static/media/Group 24.5f61d6604d4ff78e8a43.png",
+    "static/media/Group 26.png": "/Assingment/static/media/Group 26.463a2c1070dcce359c3a.png",
+    "static/media/Rectangle 39.png": "/Assingment/static/media/Rectangle 39.dcf030e2e56dff9d479a.png",
+    "static/media/Group 28.png": "/Assingment/static/media/Group 28.547d647c1e0032a3aefc.png",
+    "index.html": "/Assingment/index.html",
+    "main.acc79c7d.css.map": "/Assingment/static/css/main.acc79c7d.css.map",
+    "main.c98b8625.js.map": "/Assingment/static/js/main.c98b8625.js.map",
+    "787.edd59a96.chunk.js.map": "/Assingment/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acc79c7d.css",
+    "static/js/main.c98b8625.js"
+  ]
+}
