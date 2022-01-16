@@ -1,0 +1,14 @@
+.od img{
+    
+    width: 100px;
+    height: 100px;
+    position: relative;
+   
+}
+.od{
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}

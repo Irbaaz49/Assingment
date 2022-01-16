@@ -1,0 +1,58 @@
+.image img{
+    width: 200px;
+    top: 5px;
+    height: 150px;
+    position: relative;
+   
+}
+.wrap{
+border-radius: 25%;
+    display: inline-block;
+ 
+    
+}
+@media (max-width: 40em){
+    .wrap{
+        width: 350px;
+    }
+    .image img{
+        width: 350px;
+    }
+    .bottom{
+        justify-content: space-between;
+    }
+}
+.bottom{
+    display: flex;
+    background-color:#C7326D;
+    
+}
+.bottom div p{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+ 
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+.bottom div a{
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 14px;
+
+text-decoration-line: underline;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.SwiperSlide{
+    width: 200px;
+}

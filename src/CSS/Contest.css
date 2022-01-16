@@ -1,0 +1,18 @@
+.code img{
+  
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 10px;
+}
+.code{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    width: 113px;
+    border-radius: 10px;
+    height: 94px;
+    background: #220c26;
+    margin-bottom: 40px;
+}
